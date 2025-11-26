@@ -37,7 +37,7 @@ public class Calculate {
 
         System.out.println(total);
     }
-
+    //methods
     public static double sum(double n1, double n2) {
         return n1+n2;
     }
